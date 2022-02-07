@@ -1,0 +1,29 @@
+*{
+    color:rgb(0, 5, 10);
+}
+
+
+body{
+    font-family: sans-serif;
+}
+
+p, textarea {
+    font-size: 20px;
+}
+textarea{
+    width: 50%;
+    padding: 10px;
+}
+#playAgain{
+    display: none;
+}
+.apple{
+    text-align: center;
+}
+.ball{
+    text-align: center;
+}
+#score{
+    padding:2px;
+    color: #6495ED;
+}
